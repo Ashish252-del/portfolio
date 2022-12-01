@@ -1,5 +1,5 @@
 // for smooth scrolling npm i react-scroll
-import { eventWrapper } from "@testing-library/user-event/dist/utils";
+
 import React, { useState } from "react";
 import './nav.css' 
 import {Link} from 'react-scroll'
