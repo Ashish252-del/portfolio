@@ -1,4 +1,3 @@
-// for smooth scrolling npm i react-scroll
 
 import React, { useState } from "react";
 import './nav.css' 
