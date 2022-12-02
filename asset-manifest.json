@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2b2f519b.css",
+    "main.js": "/portfolio/static/js/main.51a01abd.js",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/sidebar.png": "/portfolio/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/rec.png": "/portfolio/static/media/rec.6bcffb56bd0efaa47767.png",
+    "static/media/musicapp.png": "/portfolio/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/Ashish.jpeg": "/portfolio/static/media/Ashish.477f2befa0df0d3920a4.jpeg",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.a845a9215bdc6f484ee8.pdf",
+    "static/media/hoc.png": "/portfolio/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/Mongo.jpg": "/portfolio/static/media/Mongo.b9e24b8bb2aef42f7ee6.jpg",
+    "static/media/thumbup.png": "/portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/express.png": "/portfolio/static/media/express.b44f5a4b0ab040328aac.png",
+    "static/media/crown.png": "/portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/portfolio/index.html",
+    "main.2b2f519b.css.map": "/portfolio/static/css/main.2b2f519b.css.map",
+    "main.51a01abd.js.map": "/portfolio/static/js/main.51a01abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b2f519b.css",
+    "static/js/main.51a01abd.js"
+  ]
+}
