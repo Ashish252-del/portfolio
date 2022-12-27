@@ -21,7 +21,7 @@ const Experience = () => {
                 <span>Project</span>
             </div> 
             <div className="achievement">
-                <div className={a}>0</div>
+                <div className={a}>3</div>
                 <span>Companies</span>
                <span>Work</span>
             </div> 
